@@ -12,7 +12,7 @@ El objetivo del proyecto es demostrar habilidades en desarrollo Android moderno 
 
 ## 📲 Download APK
 
-👉 [Download the app](./app-debug.apk)
+👉 [Download the app](./app-debug.apk)](https://github.com/mdjoyanes-lgtm/privacy-center-android/releases
 
 Puedes descargar directamente la app y probarla sin necesidad de compilar el proyecto.
 
